@@ -1,0 +1,29 @@
+# Directorios específicos del proyecto
+/ceia-laravel/database/
+/ceia-frontend/src/hooks/
+
+# Archivos sensibles adicionales (personaliza según tu caso)
+*.log
+*.key
+*.pem
+*.cert
+*.secret
+/config/*.local.php
+
+# Laravel
+/vendor
+/.env
+/node_modules
+/public/storage
+/storage/*.key
+.phpunit.result.cache
+
+# React
+ceia-frontend/node_modules
+ceia-frontend/.env
+
+# Otros
+.DS_Store
+*.log
+.vscode
+.idea
