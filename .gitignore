@@ -1,0 +1,30 @@
+# Laravel
+/vendor
+/.env
+.env
+.env.*
+/node_modules
+/public/storage
+/storage/*.key
+.phpunit.result.cache
+
+# Base de datos local
+/ceia-laravel/database/
+
+# React
+/ceia-frontend/node_modules
+/ceia-frontend/.env
+
+# Archivos sensibles adicionales
+*.log
+*.key
+*.pem
+*.cert
+*.secret
+/config/*.local.php
+
+# IDEs y editores
+.DS_Store
+.vscode/
+.idea/
+*.log

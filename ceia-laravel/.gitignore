@@ -1,6 +1,6 @@
 # Directorios específicos del proyecto
 /ceia-laravel/database/
-/ceia-frontend/src/hooks/
+
 
 # Archivos sensibles adicionales (personaliza según tu caso)
 *.log
