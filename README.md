@@ -7,16 +7,16 @@
 
 Sistema integral para la gestión de equipos, personal y mantenimientos en centros de instrumentación analítica.
 
-![Vista Principal](https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/login.png)
+![Vista Principal](https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/principal.png)
 
 ## 🌟 Características Principales
 
-- **Gestión completa de equipos** con historial de mantenimientos
-- **Sistema de solicitudes** con seguimiento de estado y prioridades
-- **Control de usuarios** con sistema de permisos granular
-- **Documentación técnica** con imágenes asociadas
-- **Calendario de mantenimientos** visual
-- **Interfaz responsive** para uso en móvil y escritorio
+- **Gestión completa de equipos** con historial de mantenimientos  
+- **Sistema de solicitudes** con seguimiento de estado y prioridades  
+- **Control de usuarios** con sistema de permisos granular  
+- **Documentación técnica** con imágenes asociadas  
+- **Calendario de mantenimientos** visual  
+- **Interfaz responsive** para uso en móvil y escritorio  
 
 ## 🛠 Stack Tecnológico
 
@@ -41,53 +41,56 @@ Sistema integral para la gestión de equipos, personal y mantenimientos en centr
 
 ### Autenticación y Usuarios
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/login.png" alt="Login" width="30%">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/accesodenegado.png" alt="Acceso Denegado" width="30%">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/CrearUsuario.png" alt="Crear Usuario" width="30%">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/principal.png" alt="Principal" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/accesodenegado.png" alt="Acceso Denegado" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
   
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/editarUsuario.png" alt="Editar Usuario" width="45%">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/gUsuarios.png" alt="Gestión de Usuarios" width="45%">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/CrearUsuario.png" alt="Crear Usuario" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/editarUsuario.png" alt="Editar Usuario" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
+  
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/gUsuarios.png" alt="Gestión de Usuarios" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
 </div>
 
 ### Gestión de Equipos
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/gEquipos.png" alt="Lista de Equipos" width="30%">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/EditEquipo.png" alt="Editar Equipo" width="30%">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/imagenEquipo.png" alt="Imágenes de Equipo" width="30%">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/gEquipos.png" alt="Lista de Equipos" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/EditEquipo.png" alt="Editar Equipo" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
+  
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/imagenEquipo.png" alt="Imágenes de Equipo" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
 </div>
 
 ### Sistema de Solicitudes
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/gSolicitudes.png" alt="Lista de Solicitudes" width="30%">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/agregarSolicitud.png" alt="Agregar Solicitud" width="30%">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/solicitudAgregada.png" alt="Solicitud Creada" width="30%">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/gSolicitudes.png" alt="Lista de Solicitudes" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/agregarSolicitud.png" alt="Agregar Solicitud" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
   
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/asignarPersonal.png" alt="Asignar Personal" width="45%">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/solicitudAgregada.png" alt="Solicitud Creada" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/asignarPersonal.png" alt="Asignar Personal" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
 </div>
 
 ### Mantenimientos y Calendario
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/historialDeMantenimientos.png" alt="Historial de Mantenimientos" width="30%">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/editarMantenimiento.png" alt="Editar Mantenimiento" width="30%">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/equiposAsociadosMantenimiento.png" alt="Equipos Asociados" width="30%">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/historialDeMantenimientos.png" alt="Historial de Mantenimientos" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/editarMantenimiento.png" alt="Editar Mantenimiento" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
   
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/calendarioDeTraajo.png" alt="Calendario de Trabajo" width="45%">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/historialDeMantenimientohistorico.png" alt="Historial Completo" width="45%">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/equiposAsociadosMantenimiento.png" alt="Equipos Asociados" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/calendarioDeTraajo.png" alt="Calendario de Trabajo" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
+  
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/historialDeMantenimientohistorico.png" alt="Historial Completo" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
 </div>
 
 ### Permisos y Configuraciones
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/gpermisos.png" alt="Gestión de Permisos" width="45%">
-  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/permisos.png" alt="Asignación de Permisos" width="45%">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/gpermisos.png" alt="Gestión de Permisos" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/Jhosep2001-taku/PlataformaCEIADev/main/Imagenes/permisos.png" alt="Asignación de Permisos" style="height: 250px; object-fit: cover; border-radius: 8px; margin: 5px;">
 </div>
 
 ## 🚀 Instalación
 
 ### Requisitos Previos
-- PHP 8.0+
-- Composer 2.5+
-- Node.js 16+
-- MySQL 5.7+
+- PHP 8.0+  
+- Composer 2.5+  
+- Node.js 16+  
+- MySQL 5.7+  
 
 ### Pasos de Configuración
 
