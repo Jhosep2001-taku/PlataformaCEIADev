@@ -1,23 +1,30 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
+# Laravel
+/vendor
+/.env
+.env
+.env.*
 /node_modules
-/.pnp
-.pnp.js
+/public/storage
+/storage/*.key
+.phpunit.result.cache
 
-# testing
-/coverage
+# Base de datos local
+/ceia-laravel/database/
 
-# production
-/build
+# React
+/ceia-frontend/node_modules
+/ceia-frontend/.env
 
-# misc
+# Archivos sensibles adicionales
+*.log
+*.key
+*.pem
+*.cert
+*.secret
+/config/*.local.php
+
+# IDEs y editores
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+.vscode/
+.idea/
+*.log
