@@ -10,7 +10,7 @@
 
 # Base de datos local
 /ceia-laravel/database/
-
+/ceia-frontend/src/hooks/
 # React
 /ceia-frontend/node_modules
 /ceia-frontend/.env
